@@ -37,7 +37,8 @@ A parallel to serial converter is a digital circuit where we feed the input data
 
    **3. Counter**  
 We have internal register called count when the count<=3 the shift will be equal 1. And when the count==4 the shift will be equal 0.
-                                                                  
+
+#   Note
 **Clock Divider:**
 In our design, we didn’t use the clock divider because we used serial-to-parallel encoder and parallel-to-serial decoder. But if we use in encoder another stage parallel _to_serial after operation stage and another stage in decoder which is serial _to _parallel before the operation of the decoder. The clock divider will be connected with the stages that we added. Furthermore, it can control the speed of input and output.
 
