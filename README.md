@@ -1,11 +1,11 @@
 **Hello, This project is about Hamming code (7,4) Encoder with serial input and Decoder using VHDL.**
 # Team Members
 
-      1. Eng/ Menna Ahmed Heshmat.
-      2. Eng/ Nadine Ashraf Adeeb.
-      3. Eng/ Tasneem Yassin Mostafa.
-      4. Eng/ Sara Gouda Rohaim.
-      5. Eng/ Tasnim Ragab Abdelhamid.
+ -  Menna Ahmed Heshmat.
+ -  Nadine Ashraf Adeeb.
+ -  Tasneem Yassin Mostafa.
+ -  Sara Gouda Rohaim.
+ -  Tasnim Ragab Abdelhamid.
 # FIRST: Encoder
 
 Data word is applied as an input in the encoder circuit which performs XOR operations on the given data word and 
