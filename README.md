@@ -1,4 +1,4 @@
-**Hello, This project is about Hamming code (7,4) Encoder with serial input and Decoder using VHDL.**
+**Hello, This project is about Hamming code (7,4) Encoder with serial input and Decoder using Verilog HDL.**
 # Team Members
 
  -  Menna Ahmed Heshmat.
