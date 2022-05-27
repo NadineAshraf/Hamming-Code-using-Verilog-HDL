@@ -1,7 +1,7 @@
 **Hello, This project is about Hamming code (7,4) Encoder with serial input and Decoder using Verilog HDL.**
 # Team Members
 
- -  Menna Ahmed Heshmat.
+ -  Menna Ahmed Heshmat. ( **Github:** https://github.com/mennaaheshmat ) 
  -  Nadine Ashraf Adeeb.
  -  Tasneem Yassin Mostafa.
  -  Sara Gouda Rohaim.
