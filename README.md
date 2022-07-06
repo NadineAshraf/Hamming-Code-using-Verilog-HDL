@@ -2,10 +2,10 @@
 # Team Members
 
  -  Menna Ahmed Heshmat. ( **Github:** https://github.com/mennaaheshmat ) 
- -  Nadine Ashraf Adeeb.
+ -  Nadine Ashraf Adeeb. 
  -  Tasneem Yassin Mostafa.
  -  Sara Gouda Rohaim.
- -  Tasnim Ragab Abdelhamid.
+ -  Tasnim Ragab Abdelhamid. ( **Github:** https://github.com/tasnimragab )
 # FIRST: Encoder
 
 Data word is applied as an input in the encoder circuit which performs XOR operations on the given data word and 
